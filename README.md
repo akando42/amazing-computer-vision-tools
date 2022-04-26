@@ -1,3 +1,3 @@
 # computer-vision-datasets
 
-- [COCO is a large-scale object detection, segmentation, and captioning dataset](https://github.com/pdollar/coco)
+- [COCO - Large-scale object detection, segmentation, and captioning dataset, used in YoloNet](https://github.com/pdollar/coco)
