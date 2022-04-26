@@ -1,3 +1,16 @@
 # computer-vision-datasets
 
-- [COCO - Large-scale object detection, segmentation, and captioning dataset, used in YoloNet](https://github.com/pdollar/coco)
+### Datasets
+- [COCO - Large-scale object detection, segmentation, and captioning Dataset](https://github.com/pdollar/coco)
+- [Face Alignment Dataset](http://vis-www.cs.umass.edu/fddb/)
+- [Face Detection Dataset](http://www.cbsr.ia.ac.cn/faceevaluation/index.html)
+- [Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
+
+### Pre-trained Nets
+- [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
+](https://homes.cs.washington.edu/~ali/index.html).
+- [InsightFace](https://github.com/deepinsight/insightface) - Face Detection, Segmentation and Recognition by [Jia Guo](goujia@gmail.com) and [Jiankang Deng](https://jiankangdeng.github.io/). 
+
+### Deep Learning Framework 
+- [PyTorch - General Framework with both CPU and GPU support](https://github.com/pytorch/pytorch)
+- [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
