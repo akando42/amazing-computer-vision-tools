@@ -15,6 +15,9 @@
 - [PyTorch - General Framework with both CPU and GPU support](https://github.com/pytorch/pytorch)
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
 
-### Image, Video and Model Ultilities
+### Image, Video, Stream and Model Ultilities
 - [Video and Audio Converter](https://ffmpeg.org/)
 - [Neural Net Model Converter](https://github.com/onnx/onnx)
+- [Network Proxy](https://github.com/mitmproxy/mitmproxy)
+- [Wireshark](https://github.com/wireshark/wireshark)
+- [VLC](https://github.com/videolan/vlc)
