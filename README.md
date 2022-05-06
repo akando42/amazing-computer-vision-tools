@@ -11,6 +11,9 @@
 ](https://homes.cs.washington.edu/~ali/index.html).
 - [InsightFace](https://github.com/deepinsight/insightface) - Face Detection, Segmentation and Recognition by [Jia Guo](goujia@gmail.com) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 
+### Computer Vision Frameworks
+- [OpenCV Python](https://github.com/opencv/opencv-python)
+
 ### Deep Learning Framework 
 - [PyTorch - General Framework with both CPU and GPU support](https://github.com/pytorch/pytorch)
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
