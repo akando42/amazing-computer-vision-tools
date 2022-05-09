@@ -19,7 +19,8 @@
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
 
 ### Image, Video, Stream and Model Ultilities
-- [Video and Audio Converter](https://ffmpeg.org/)
+- [FFMPEG](https://ffmpeg.org/)
+- [Python FFMPEG](https://github.com/kkroening/ffmpeg-python)
 - [Neural Net Model Converter](https://github.com/onnx/onnx)
 - [Network Proxy](https://github.com/mitmproxy/mitmproxy)
 - [Wireshark Network Intercept](https://github.com/wireshark/wireshark)
