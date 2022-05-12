@@ -17,6 +17,7 @@
 ### Deep Learning Framework 
 - [PyTorch - General Framework with both CPU and GPU support](https://github.com/pytorch/pytorch)
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
+- [Lip Reading with Neural Network](https://github.com/astorfi/lip-reading-deeplearning)
 
 ### Image, Video, Stream and Model Ultilities
 - [FFMPEG](https://ffmpeg.org/)
