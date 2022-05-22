@@ -5,6 +5,7 @@
 - [Face Alignment Dataset](http://vis-www.cs.umass.edu/fddb/)
 - [Face Detection Dataset](http://www.cbsr.ia.ac.cn/faceevaluation/index.html)
 - [Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
+- [Satelite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 ### Pre-trained Nets
 - [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
