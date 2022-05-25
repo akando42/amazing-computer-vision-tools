@@ -20,6 +20,8 @@
 - [PyTorch - General Framework with both CPU and GPU support](https://github.com/pytorch/pytorch)
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
 
+### Media Server 
+- [RTMP Server in RUST](https://github.com/harlanc/xiu)
 
 ### Image, Video, Stream and Model Ultilities
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
