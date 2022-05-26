@@ -30,7 +30,7 @@
 - [FFMPEG](https://ffmpeg.org/) - 10/10
 - [Python FFMPEG](https://github.com/kkroening/ffmpeg-python)
 - [Neural Net Model Converter](https://github.com/onnx/onnx)
-- [VLC Video Viewer](https://github.com/videolan/vlc)
+- [VLC - View Listen Control](https://github.com/videolan/vlc)
 - [OBS Streaming Tool](https://github.com/obsproject/obs-studio)
 
 ### Network Ultilities
