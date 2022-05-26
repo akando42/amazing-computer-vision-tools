@@ -22,6 +22,7 @@
 
 ### Media Server 
 - [RTMP Server in RUST](https://github.com/harlanc/xiu)
+- [RTSP to HLS Stream Server](https://github.com/Roverr/rtsp-stream#how-does-it-work)
 
 ### Image, Video, Stream and Model Ultilities
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
