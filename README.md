@@ -21,13 +21,13 @@
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
 
 ### Media Server 
-- [RTMP Server in RUST](https://github.com/harlanc/xiu) - 5/5
+- [RTMP Server in RUST](https://github.com/harlanc/xiu) - 9/10
 - [RTSP to HLS Stream Server in GO](https://github.com/Roverr/rtsp-stream) - Evaluating
 - [HLS, RTMP, RTSP Server in GO](https://github.com/aler9/rtsp-simple-server) - Evaluating
 
 ### Image, Video, Stream and Model Ultilities
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
-- [FFMPEG](https://ffmpeg.org/)
+- [FFMPEG](https://ffmpeg.org/) - 10/10
 - [Python FFMPEG](https://github.com/kkroening/ffmpeg-python)
 - [Neural Net Model Converter](https://github.com/onnx/onnx)
 - [VLC Video Viewer](https://github.com/videolan/vlc)
@@ -39,4 +39,4 @@
 - [Wireshark Network Intercept](https://github.com/wireshark/wireshark)
 
 ### Vision Hardware Devices
-- [IP Camera Manufacture ONVIF Protocols](https://github.com/agsh/onvif) - 4/5
+- [IP Camera Manufacture ONVIF Protocols](https://github.com/agsh/onvif) - 6/10
