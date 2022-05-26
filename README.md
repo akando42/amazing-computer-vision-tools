@@ -21,8 +21,9 @@
 - [MXNet - Lightweight Mobile Neural Network](https://github.com/apache/incubator-mxnet)
 
 ### Media Server 
-- [RTMP Server in RUST](https://github.com/harlanc/xiu)
-- [RTSP to HLS Stream Server](https://github.com/Roverr/rtsp-stream#how-does-it-work)
+- [RTMP Server in RUST](https://github.com/harlanc/xiu) - 5/5
+- [RTSP to HLS Stream Server in GO](https://github.com/Roverr/rtsp-stream) - Evaluating
+- [HLS, RTMP, RTSP Server in GO](https://github.com/aler9/rtsp-simple-server) - Evaluating
 
 ### Image, Video, Stream and Model Ultilities
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
