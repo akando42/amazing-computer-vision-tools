@@ -26,6 +26,7 @@
 - [HLS, RTMP, RTSP Server in GO](https://github.com/aler9/rtsp-simple-server) - Evaluating
 
 ### Image, Video, Stream and Model Ultilities
+- [OBS Studio NodeJS Interface](https://github.com/stream-labs/obs-studio-node)
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
 - [FFMPEG](https://ffmpeg.org/) - 10/10
 - [Python FFMPEG](https://github.com/kkroening/ffmpeg-python)
