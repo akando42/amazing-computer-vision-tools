@@ -22,6 +22,7 @@
 
 ### Media Server 
 - [RTMP Server in RUST](https://github.com/harlanc/xiu) - 9/10
+- [HLS Server in Node](https://github.com/t-mullen/hls-server) - Evaluating
 - [RTSP to HLS Stream Server in GO](https://github.com/Roverr/rtsp-stream) - Evaluating
 - [HLS, RTMP, RTSP Server in GO](https://github.com/aler9/rtsp-simple-server) - Evaluating
 
