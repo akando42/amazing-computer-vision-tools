@@ -30,6 +30,7 @@
 ### Image, Video, Stream and Model Ultilities
 - [OBS Studio NodeJS Interface](https://github.com/stream-labs/obs-studio-node)
 - [HLS Browser Player](https://github.com/video-dev/hls.js/)
+- [HLS Peer to Peer Engine](https://github.com/cdnbye/hlsjs-p2p-engine).   
 - [FFMPEG](https://ffmpeg.org/) - 10/10
 - [Python FFMPEG](https://github.com/kkroening/ffmpeg-python)
 - [Neural Net Model Converter](https://github.com/onnx/onnx)
