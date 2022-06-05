@@ -12,6 +12,7 @@
 ](https://homes.cs.washington.edu/~ali/index.html).
 - [InsightFace](https://github.com/deepinsight/insightface) - Face Detection, Segmentation and Recognition by [Jia Guo](goujia@gmail.com) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 - [Lip Reading with Neural Network](https://github.com/astorfi/lip-reading-deeplearning) - Speech Recognition with Computer Vision
+- [You Only Look Once - YOLOv5](https://github.com/ultralytics/yolov5)
 
 ### Computer Vision Frameworks
 - [OpenCV Python](https://github.com/opencv/opencv-python)
