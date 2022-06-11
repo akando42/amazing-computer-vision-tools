@@ -44,5 +44,5 @@
 - [Wireshark Network Intercept](https://github.com/wireshark/wireshark)
 
 ### Vision Hardware Devices
-- [ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 6/10
-- [Node-Onvif](https://github.com/futomi/node-onvif) - Evaluating
+- [ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 5/10
+- [Node-Onvif](https://github.com/futomi/node-onvif) - 5/10
