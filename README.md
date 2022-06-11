@@ -45,3 +45,4 @@
 
 ### Vision Hardware Devices
 - [ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 6/10
+- [Node-Onvif](https://github.com/futomi/node-onvif) - Evaluating
