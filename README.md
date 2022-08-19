@@ -8,6 +8,7 @@
 - [Satelite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 ### Pre-trained Nets
+- [DeepFish](https://github.com/alzayats/DeepFish) - Fish detection and counting
 - [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
 ](https://homes.cs.washington.edu/~ali/index.html).
 - [InsightFace](https://github.com/deepinsight/insightface) - Face Detection, Segmentation and Recognition by [Jia Guo](goujia@gmail.com) and [Jiankang Deng](https://jiankangdeng.github.io/). 
