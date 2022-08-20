@@ -8,6 +8,7 @@
 - [Satelite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 ### Pre-trained Nets
+- [FaceoffNet](https://github.com/iperov/DeepFaceLab)
 - [MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Fingerprint Recognition
 - [DeepFish](https://github.com/alzayats/DeepFish) - Fish detection and counting
 - [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
