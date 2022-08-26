@@ -11,6 +11,7 @@
 - [RoboFlow](https://github.com/roboflow-ai/zero-shot-object-tracking) - Dataset building and iterations
 
 ### Pre-trained Nets
+- [Detectron2](https://github.com/facebookresearch/detectron2.git) - Facebook general object detection, segmentation frameworks.
 - [FaceoffNet](https://github.com/iperov/DeepFaceLab) - Swapping Face in Photo and Video
 - [MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Fingerprint Recognition
 - [DeepFish](https://github.com/alzayats/DeepFish) - Fish detection and counting
