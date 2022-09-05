@@ -11,16 +11,23 @@
 - [RoboFlow](https://github.com/roboflow-ai/zero-shot-object-tracking) - Dataset building and iterations
 
 ### Pre-trained Nets
-- [Ground Objects Detections](https://github.com/avanetten/yoltv4) - Find small objects in wideframe area images from planes and satelites. 
+#### Mechanical Nets
+- [Ground Objects Detections](https://github.com/avanetten/yoltv4) - Find small objects in wideframe area images from planes and satelites.
+- [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
+](https://homes.cs.washington.edu/~ali/index.html).
+
+#### Human Nets
 - [Detectron2](https://github.com/facebookresearch/detectron2.git) - Facebook general object detection, segmentation frameworks.
 - [FaceoffNet](https://github.com/iperov/DeepFaceLab) - Swapping Face in Photo and Video
 - [MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Fingerprint Recognition
-- [DeepFish](https://github.com/alzayats/DeepFish) - Fish detection and counting
-- [DarkNet](https://github.com/pjreddie/darknet) - Object Detection and Segmentation by [Joseph Redmon](https://pjreddie.com/) and [Ali Farhadi
-](https://homes.cs.washington.edu/~ali/index.html).
 - [InsightFace](https://github.com/deepinsight/insightface) - Face Detection, Segmentation and Recognition by [Jia Guo](goujia@gmail.com) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 - [Lip Reading with Neural Network](https://github.com/astorfi/lip-reading-deeplearning) - Speech Recognition with Computer Vision
 - [You Only Look Once - YOLOv5](https://github.com/ultralytics/yolov5)
+
+#### Nature Nets
+- [DeepFish](https://github.com/alzayats/DeepFish) - Fish detection and counting
+- [Motile Objects Detection](https://github.com/eihw/motilitai) - Sperm motion detection
+
 
 ### Computer Vision Frameworks
 - [OpenCV Python](https://github.com/opencv/opencv-python)
