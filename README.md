@@ -11,6 +11,7 @@
 - [RoboFlow](https://github.com/roboflow-ai/zero-shot-object-tracking) - Dataset building and iterations
 
 ### Pre-trained Nets
+- [Ground Objects Detections](https://github.com/avanetten/yoltv4) - Find small objects in wideframe area images from planes and satelites. 
 - [Detectron2](https://github.com/facebookresearch/detectron2.git) - Facebook general object detection, segmentation frameworks.
 - [FaceoffNet](https://github.com/iperov/DeepFaceLab) - Swapping Face in Photo and Video
 - [MinutiaeNet](https://github.com/luannd/MinutiaeNet) - Fingerprint Recognition
