@@ -58,11 +58,8 @@
 - [Scapy Python Network Scanner](https://github.com/secdev/scapy/)
 - [Wireshark Network Intercept](https://github.com/wireshark/wireshark)
 
-### Camera Interfaces
-- [](https://github.com/waveform80/picamera)
-
 ### Vision Hardware Devices
-- [ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 5/10
-- [Node-Onvif](https://github.com/futomi/node-onvif) - 5/10
+- [IP Camera ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 5/10
+- [IP Camera Node-Onvif](https://github.com/futomi/node-onvif) - 5/10
 - [PiCameraV3](https://github.com/raspberrypi/picamera2) - Raspberry Pi OS only, Ubuntu not fully supported
 - [Webcam on Ubuntu Server](https://github.com/Motion-Project/motion) - Testing 
