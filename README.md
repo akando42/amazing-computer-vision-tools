@@ -61,5 +61,5 @@
 ### Vision Hardware Devices
 - [IP Camera ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 5/10
 - [IP Camera Node-Onvif](https://github.com/futomi/node-onvif) - 5/10
-- [PiCameraV3](https://github.com/raspberrypi/picamera2) - Raspberry Pi OS only, Ubuntu not fully supported
-- [Webcam on Ubuntu Server](https://github.com/Motion-Project/motion) - Testing 
+- [PiCameraV3](https://github.com/raspberrypi/picamera2) - 4/10 Raspberry Pi OS only, Ubuntu not fully supported
+- [Webcam on Ubuntu Server](https://github.com/Motion-Project/motion) - 6/10 
