@@ -9,6 +9,8 @@
 
 ### Dataset Building Tools
 - [RoboFlow](https://github.com/roboflow-ai/zero-shot-object-tracking) - Dataset building and iterations
+- [Chess Move Generation](https://github.com/jhlywa/chess.js) - Chess Moves Generation
+- [Chess Board Visualization](https://github.com/oakmac/chessboardjs/) - Chess Board Visualization
 
 ### Pre-trained Nets
 #### Mechanical Nets
