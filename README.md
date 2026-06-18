@@ -64,4 +64,8 @@
 - [IP Camera ONVIF Protocol JS Lib](https://github.com/agsh/onvif) - 5/10
 - [IP Camera Node-Onvif](https://github.com/futomi/node-onvif) - 5/10
 - [PiCameraV3](https://github.com/raspberrypi/picamera2) - 4/10 Raspberry Pi OS only, Ubuntu not fully supported
-- [Webcam on Ubuntu Server](https://github.com/Motion-Project/motion) - 6/10 
+- [Webcam on Ubuntu Server](https://github.com/Motion-Project/motion) - 6/10
+- [Jetson Nano](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) - /10
+
+### Prebuilt OS Images
+- [Ubuntu 20.04 on Jetson Nano](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) - /10
