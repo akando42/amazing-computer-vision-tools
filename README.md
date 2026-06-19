@@ -68,4 +68,4 @@
 - [Jetson Nano](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) - /10
 
 ### Prebuilt OS Images
-- [Ubuntu 20.04 on Jetson Nano](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) - /10
+- [Ubuntu 20.04 on Jetson Nano](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) - 9/10
